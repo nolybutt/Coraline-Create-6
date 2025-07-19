@@ -1,0 +1,19 @@
+{
+  "slot": "daffas_arsenal:attachment/slot/scope_ssg69",
+  "model": "daffas_arsenal:attachment/scope_ssg69_geo",
+  "texture": "daffas_arsenal:attachment/uv/scope_ssg69",
+  "lod": {
+    "model": "daffas_arsenal:attachment/scope_ssg69_geo",
+    "texture": "daffas_arsenal:attachment/uv/scope_ssg69"
+  },
+  "zoom": [
+    5.0,
+    8.0
+  ],
+  "scope": true,
+  "fov": 25.0,
+  "sounds": {
+    "install": "tacz:attachments/scope_general_a",
+    "uninstall": "tacz:attachments/scope_general_a"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "pack.daffas_arsenal.name": "Daffa's Arsenal",
+  "pack.daffas_arsenal.desc": "Gameplay tuning by DaffaTheOne.",
+  "daffas_arsenal.creativetab.title": "Daffa's Arsenal",
+
+  "daffas_arsenal.gun.ss1_v5": "SS1-V5",
+  "daffas_arsenal.gun.ss1_v5.desc": "§6Capable of piercing two enemies simultaneously§r, the SS1 V5 is a reliable assault rifle with excellent CQB capability, ideal for close-quarters combat.",
+  "daffas_arsenal.gun.ssg69": "SSG-69",
+  "daffas_arsenal.gun.ssg69.desc": "The SSG-69 is a precision bolt-action rifle renowned for its accuracy and reliability. Chambered in .308 Winchester.",
+  "daffas_arsenal.gun.harpa9": "ARP-9",
+  "daffas_arsenal.gun.harpa9.desc": "The ARP-9 is a versatile, lightweight rifle designed for exceptional performance in 9mm with excellent CQB capability.",
+  "daffas_arsenal.gun.hk45": "HK-45",
+  "daffas_arsenal.gun.hk45.desc": "The HK-45 is a reliable and versatile handgun known for its exceptional accuracy and superior handling. Chambered in .45 ACP.",
+  "daffas_arsenal.gun.hk45_sup": "HK-45 Suppressor",
+  "daffas_arsenal.gun.hk45_sup.desc": "The HK-45 is a reliable and versatile handgun known for its exceptional accuracy and superior handling. Chambered in .45 ACP.",
+  "daffas_arsenal.gun.hk416": "HK-416",
+  "daffas_arsenal.gun.hk416.desc": "§6Capable of piercing two enemies simultaneously§r, the HK416 is a reliable, accurate assault rifle with a high fire rate, perfect for rapid engagements.",
+  "daffas_arsenal.gun.hk417": "HK-417",
+  "daffas_arsenal.gun.hk417.desc": "§6Capable of piercing two enemies simultaneously§r, the HK417 is a powerful, accurate battle rifle with a strong punch, ideal for medium to long-range engagements.",
+  "daffas_arsenal.gun.southeastmomssecretweapon": "Folding Hanger",
+  "daffas_arsenal.gun.southeastmomssecretweapon.desc": "The Folding Hanger is a practical and space-saving solution for organizing clothes. Designed with a collapsible frame, it easily folds away when not in use.",
+  "daffas_arsenal.gun.apacoba9": "APC-9",
+  "daffas_arsenal.gun.apacoba9.desc": "A lightweight, 9mm submachine gun designed for CQB combat. Features low recoil, and modular customization. Ideal for fast, precise firefights in close quarters.",
+  "daffas_arsenal.gun.apacoba9_sup": "APC-9 Suppressor",
+  "daffas_arsenal.gun.apacoba9_sup.desc": "A lightweight, 9mm submachine gun designed for CQB combat. Features low recoil, and modular customization. Ideal for fast, precise firefights in close quarters.",
+  "daffas_arsenal.gun.sg550": "SG-550",
+  "daffas_arsenal.gun.sg550.desc":"§6Capable of piercing two enemies simultaneously§r, the SG550 is a precise assault rifle with stable recoil, ensuring accuracy in mid to long-range engagements.",
+  "daffas_arsenal.gun.samula3": "Samula3",
+  "daffas_arsenal.gun.samula3.desc": "Gaming at anytime.",
+  "daffas_arsenal.gun.spasi15": "Spas-15",
+  "daffas_arsenal.gun.spasi15.desc": "The SPAS-15 is a 12-gauge Italian combat shotgun with semi-auto and pump-action modes. It uses a detachable magazine and has a folding stock, ideal tactical use.",
+  "daffas_arsenal.gun.hk416_sup": "HK-416 Suppressor",
+  "daffas_arsenal.gun.hk416_sup.desc": "§6Capable of piercing two enemies simultaneously§r, the HK416 is a reliable, accurate assault rifle with a high fire rate, perfect for rapid engagements.",
+
+  "daffas_arsenal.ammo.water.name": "Daffa's Water",
+  "daffas_arsenal.ammo.water.desc": "§bMade from extract of Potato.... Water is a clear, tasteless, and odorless liquid essential to life. Covering over 70% of Earth’s surface, it exists in oceans, rivers, lakes, and even underground. Composed of two hydrogen atoms bonded to one oxygen atom (H₂O), water is unique in its ability to exist naturally in solid, liquid, and gas states. It’s vital for all living organisms, supporting bodily functions, nourishing plants, and maintaining ecosystems. Water also plays a crucial role in weather patterns, shaping landscapes through erosion, and providing a habitat for countless species. Clean, accessible water is essential for health, agriculture, and industry, making it one of our most precious resources.§r",
+  "daffas_arsenal.ammo.elektrikal.name": "Daffa's Phone Battery",
+  "daffas_arsenal.ammo.elektrikal.desc": "A single-use battery designed to provide temporary power to the device, intended for emergency or disposable applications.",
+
+  "daffas_arsenal.attachment.scope_m2ampon.name": "M2 Aimpoint",
+  "daffas_arsenal.attachment.reflect_digi_daw.name": "DigiDAW Mini",
+  "daffas_arsenal.attachment.scope_ssg69.name": "SSG-69 Scope",
+  "daffas_arsenal.attachment.laser_regular.name": "DigiDAW Laser"
+
+
+}

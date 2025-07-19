@@ -1,0 +1,32 @@
+# Logs
+logs/
+*.log
+
+# Personal/Generated Files
+options.txt
+optionsof.txt
+servers.dat
+usercache.json
+launcher_profiles.json
+usernamecache.json
+
+# World Saves & Backups
+saves/
+backups/
+
+# Screenshots
+screenshots/
+
+# JourneyMap data
+journeymap/
+
+# Crash Reports
+crash-reports/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# The following are intentionally NOT ignored so they can be in the repo
+# shaderpacks/
+# resourcepacks/

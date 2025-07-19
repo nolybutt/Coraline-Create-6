@@ -1,0 +1,16 @@
+filename = 'create_better_motors-3.0.2.jar'
+name = 'Create: Better Motors'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a40ceed791415135aa2bbd08b0289b8caafca40a6669ae8f66825fad0ed4d82ffbf3030f02592411d582b3ce2dac75bf315828d72a3a906a8feb5ef84dd2a6cf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PzouXFuY/versions/9dEIc0Yu/create_better_motors-3.0.2.jar'
+
+[update.modrinth]
+mod-id = 'PzouXFuY'
+version = '9dEIc0Yu'

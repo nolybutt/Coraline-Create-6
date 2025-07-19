@@ -1,0 +1,16 @@
+filename = 'petrolsparts-1.20.1-1.2.3-all.jar'
+name = "Petrol's Parts (Create add-on)"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1688cfe270a21a111d4a2faf93bdb6ffeb2a86faba34a6569f329e96af8ca4f937a954f45b7a57907602fc44ea4793b2af6e3e482d36f4ce435d88c4809db57b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AN0CZD9P/versions/hCQO8AvZ/petrolsparts-1.20.1-1.2.3-all.jar'
+
+[update.modrinth]
+mod-id = 'AN0CZD9P'
+version = 'hCQO8AvZ'
